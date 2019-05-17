@@ -1,2 +1,2 @@
-learnputs "Hello World!"
+puts "Hello World!"
 
